@@ -1,2 +1,4 @@
 this is first file
 add another line to folder and commit it.
+yo i know how to push code in git and github.
+yes sir
